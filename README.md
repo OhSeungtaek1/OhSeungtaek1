@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am OhSeungtaek1 from Gachon Univ.
 
 <!--
 **OhSeungtaek1/OhSeungtaek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
